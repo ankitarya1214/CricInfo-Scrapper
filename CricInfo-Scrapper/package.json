@@ -1,0 +1,20 @@
+{
+  "name": "Activity1Practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CricInfoExtractor.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "excel4node": "^1.7.2",
+    "jsdom": "^19.0.0",
+    "minimist": "^1.2.5",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
